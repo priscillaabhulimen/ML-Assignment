@@ -7,8 +7,8 @@ Hands-on work from the [Hugging Face Deep Reinforcement Learning Course](https:/
 
 | Project | Environment | Library | Folder |
 |---|---|---|---|
-| Lunar Lander | Landing a spacecraft between the flags | Stable-Baselines3 (PPO) | [`Lunar Lander/`](./Lunar Lander) |
-| Huggy the Dog | Fetching a thrown stick | Unity ML-Agents (PPO) | [`Huggy The Dog/`](./Huggy The Dog) |
+| Lunar Lander | Landing a spacecraft between the flags | Stable-Baselines3 (PPO) | [`Lunar Lander/`](./Lunar%20Lander) |
+| Huggy the Dog | Fetching a thrown stick | Unity ML-Agents (PPO) | [`Huggy The Dog/`](./Huggy%20The%20Dog) |
 
 ## Trained models on the Hugging Face Hub
 

@@ -1,7 +1,7 @@
 
-# Deep RL Course: Hands-on Projects
+# RL Hands-on Projects
 
-Hands-on work from the [Hugging Face Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course), covering two agents trained with different libraries and environments.
+Hands-on work including [Hugging Face Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course), covering two agents trained with different libraries and environments, and a simple Q-Learning model.
 
 ## Projects
 
@@ -9,6 +9,7 @@ Hands-on work from the [Hugging Face Deep Reinforcement Learning Course](https:/
 |---|---|---|---|
 | Lunar Lander | Landing a spacecraft between the flags | Stable-Baselines3 (PPO) | [`Lunar Lander/`](./Lunar%20Lander) |
 | Huggy the Dog | Fetching a thrown stick | Unity ML-Agents (PPO) | [`Huggy The Dog/`](./Huggy%20The%20Dog) |
+| Escape Room | Finding the shortest path out of a building | NA | [`Escape Room`](./Escape%20Room/)
 
 ## Trained models on the Hugging Face Hub
 
@@ -20,9 +21,11 @@ Hands-on work from the [Hugging Face Deep Reinforcement Learning Course](https:/
 ```
 .
 ├── README.md
-├── LUNAR_LANDER_FOLDER/
+├── Lunar Lander/
 │   └── README.md
-├──  HUGGY_FOLDER/
+├── Huggy The Dog/
+│   └── README.md
+├── Escape Room/
 │   └── README.md
 └── .gitignore
 ```

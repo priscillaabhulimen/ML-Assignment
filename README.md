@@ -9,7 +9,7 @@ Hands-on work including [Hugging Face Deep Reinforcement Learning Course](https:
 |---|---|---|---|
 | Lunar Lander | Landing a spacecraft between the flags | Stable-Baselines3 (PPO) | [`Lunar Lander/`](./Lunar%20Lander) |
 | Huggy the Dog | Fetching a thrown stick | Unity ML-Agents (PPO) | [`Huggy The Dog/`](./Huggy%20The%20Dog) |
-| Escape Room | Finding the shortest path out of a building | NA | [`Escape Room`](./Escape%20Room/)
+| Escape Room | Finding the shortest path out of a building | NA | [`Escape Room/`](./Escape%20Room/)
 
 ## Trained models on the Hugging Face Hub
 
